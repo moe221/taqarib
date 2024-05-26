@@ -1,0 +1,36 @@
+,country_name,full_name,geographic_match,admin_lvl_1,admin_lvl_2,admin_level,sex,age_group,pop_type,value
+0,LIBYA,LIBYA,LBY_00,,,0,all,all,non-displaced,6742556
+123,LIBYA,LIBYA,LBY_00,,,0,Male,under 18,non-displaced,1294182
+246,LIBYA,LIBYA,LBY_00,,,0,Male,18-59,non-displaced,1842299
+369,LIBYA,LIBYA,LBY_00,,,0,Male,60 and older,non-displaced,276449
+492,LIBYA,LIBYA,LBY_00,,,0,Female,under 18,non-displaced,1237289
+615,LIBYA,LIBYA,LBY_00,,,0,Female,18-59,non-displaced,1839295
+738,LIBYA,LIBYA,LBY_00,,,0,Female,60 and older,non-displaced,253051
+861,LIBYA,LIBYA,LBY_00,,,0,all,all,migrant,597611
+984,LIBYA,LIBYA,LBY_00,,,0,Male,under 18,migrant,52763
+1107,LIBYA,LIBYA,LBY_00,,,0,Male,18-59,migrant,479432
+1230,LIBYA,LIBYA,LBY_00,,,0,Male,60 and older,migrant,0
+1353,LIBYA,LIBYA,LBY_00,,,0,Female,under 18,migrant,58930
+1476,LIBYA,LIBYA,LBY_00,,,0,Female,18-59,migrant,6486
+1599,LIBYA,LIBYA,LBY_00,,,0,Female,60 and older,migrant,0
+1722,LIBYA,LIBYA,LBY_00,,,0,all,all,IDP,212593
+1845,LIBYA,LIBYA,LBY_00,,,0,Male,under 18,IDP,41925
+1968,LIBYA,LIBYA,LBY_00,,,0,Male,18-59,IDP,59200
+2091,LIBYA,LIBYA,LBY_00,,,0,Male,60 and older,IDP,6000
+2214,LIBYA,LIBYA,LBY_00,,,0,Female,under 18,IDP,45290
+2337,LIBYA,LIBYA,LBY_00,,,0,Female,18-59,IDP,54514
+2460,LIBYA,LIBYA,LBY_00,,,0,Female,60 and older,IDP,5664
+2583,LIBYA,LIBYA,LBY_00,,,0,all,all,refugee,43000
+2706,LIBYA,LIBYA,LBY_00,,,0,Male,under 18,refugee,7555
+2829,LIBYA,LIBYA,LBY_00,,,0,Male,18-59,refugee,19102
+2952,LIBYA,LIBYA,LBY_00,,,0,Male,60 and older,refugee,1004
+3075,LIBYA,LIBYA,LBY_00,,,0,Female,under 18,refugee,6045
+3198,LIBYA,LIBYA,LBY_00,,,0,Female,18-59,refugee,8713
+3321,LIBYA,LIBYA,LBY_00,,,0,Female,60 and older,refugee,581
+3444,LIBYA,LIBYA,LBY_00,,,0,all,all,returnee,643123
+3567,LIBYA,LIBYA,LBY_00,,,0,Male,under 18,returnee,126797
+3690,LIBYA,LIBYA,LBY_00,,,0,Male,18-59,returnee,179056
+3813,LIBYA,LIBYA,LBY_00,,,0,Male,60 and older,returnee,18171
+3936,LIBYA,LIBYA,LBY_00,,,0,Female,under 18,returnee,137060
+4059,LIBYA,LIBYA,LBY_00,,,0,Female,18-59,returnee,164915
+4182,LIBYA,LIBYA,LBY_00,,,0,Female,60 and older,returnee,17124
